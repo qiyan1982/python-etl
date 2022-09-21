@@ -21,3 +21,6 @@ Here we will use the Spotify API. You will need to grab you `USER-ID` and genera
 1. Then, you can run your code with `python3 main.py`
 
 Python version: `3.9.5`
+
+
+READ ME: Angela Wang is here 20220921 a2
